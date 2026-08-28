@@ -2,6 +2,8 @@
 
 > **Projeto de Programação Orientada a Objetos** - Sistema de simulação de mercado de ações com persistência em arquivo binário e motor de precificação em tempo real.
 
+Link do projeto: [GitHub](https://github.com/p-zaff/StockManager)
+
 ---
 
 ## 📋 Conteúdo
