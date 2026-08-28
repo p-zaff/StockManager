@@ -454,7 +454,7 @@ private static int lerInteiroSeguro(Scanner scanner, String mensagem) {
 BOLSA APP
 simples em Java
 ===============================================================
-[ECRÃ 1] ACESSO
+ACESSO
 1 - Login
 2 - Registo
 0 - Sair
@@ -466,7 +466,7 @@ Senha: senha123
 Saldo inicial (ex: 1500.00): 5000.00
 Registo ok: João da Silva
 ===============================================================
-[ECRÃ 1] ACESSO
+ACESSO
 1 - Login
 2 - Registo
 0 - Sair
@@ -475,7 +475,7 @@ E-mail: joao@example.com
 Senha: senha123
 Login ok.
 ===============================================================
-[ECRÃ 2] AREA LOGADA
+AREA LOGADA
 Utilizador: João da Silva | Saldo: R$ 5000.00
 1 - Ver Mercado
 2 - Comprar
